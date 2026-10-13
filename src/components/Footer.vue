@@ -1,0 +1,7 @@
+<template>
+  <footer class="footer section-wrap">
+    <a class="wordmark" href="#home">WA<span>.</span></a>
+    <p>Designed and built with care · 2026</p>
+    <a href="#home">Back to top ↑</a>
+  </footer>
+</template>
